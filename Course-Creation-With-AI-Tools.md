@@ -76,7 +76,7 @@ Here’s how you might structure your learning and build your course using these
 
 ---
 
-Here is a list of *10 additional free (or mostly‐free) courses** specifically on “creating online courses with AI” (including YouTube videos, blogs, platforms):
+Here is a list of **10 additional free (or mostly‐free) courses** specifically on “creating online courses with AI” (including YouTube videos, blogs, platforms):
 
 [1]: https://www.udemy.com/course/ai-content-generation-course/?srsltid=AfmBOoqhyVq60o_DXepyg2UjSi3yRWqN-yq0i_nsdVDxlYyYgrRkdnzX&utm_source=chatgpt.com "AI Content Generation Course - Udemy"
 [2]: https://www.udemy.com/course/master-ai-video-creation-for-free-unlock-your-creativity/?srsltid=AfmBOoqsMLvojur8Qwd45M9mMQ4iLOnY5FHryaJuGLr2OXL6N0SZmqbQ&utm_source=chatgpt.com "Master AI Video Creation for Free: Unlock Your Creativity! - Udemy"
@@ -88,3 +88,7 @@ Here is a list of *10 additional free (or mostly‐free) courses** specifically 
 [8]: https://minicoursegenerator.com/?utm_source=chatgpt.com "Mini Course Generator | Complete AI Course Creator"
 [9]: https://courseai.com/?utm_source=chatgpt.com "CourseAI: AI Course Creator | Best AI Course Generator"
 [10]: https://www.getresponse.com/features/course-creator?utm_source=chatgpt.com "Build Professional Online Courses with AI - GetResponse"
+
+
+
+
